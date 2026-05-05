@@ -79,11 +79,11 @@ This scatter plot examines the relationship between flight distance and arrival 
 
 ## Key Insights
 
-- Certain airlines consistently show higher average delays, indicating possible operational inefficiencies  
-- High-volume airlines dominate overall flight activity and influence delay trends  
-- Specific routes show repeated delay patterns, suggesting localized operational issues  
-- Flight distance is not a strong predictor of arrival delay  
-- Filtering and thresholds improve the reliability of the analysis  
+- Airlines such as JetBlue and Allegiant consistently exhibit higher average arrival delays, indicating potential operational inefficiencies or scheduling constraints  
+- High-volume carriers such as Southwest and Delta dominate total flight activity, meaning their performance has a disproportionate impact on overall system delays  
+- Certain routes repeatedly show elevated delay levels, suggesting route-specific constraints such as airport congestion or regional traffic patterns  
+- Flight distance does not show a strong correlation with delays, indicating that operational and environmental factors play a larger role than distance itself  
+- Applying thresholds to route frequency significantly improves analytical reliability by removing noise from low-sample routes  
 
 ## Business Impact
 
