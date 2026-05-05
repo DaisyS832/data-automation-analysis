@@ -1,0 +1,101 @@
+FL_DATE,AIRLINE,ORIGIN,DEST,DEP_DELAY,ARR_DELAY,DISTANCE
+1/9/2019,United Air Lines Inc.,FLL,EWR,-4,-14,1065
+11/19/2022,Delta Air Lines Inc.,MSP,SEA,-6,-5,1399
+7/22/2022,United Air Lines Inc.,DEN,MSP,6,0,680
+3/6/2023,Delta Air Lines Inc.,MSP,SFO,-1,24,1589
+2/23/2020,Spirit Air Lines,MCO,DFW,-2,-1,985
+7/31/2019,Southwest Airlines Co.,DAL,OKC,147,141,181
+6/11/2023,American Airlines Inc.,DCA,BOS,-9,-29,399
+7/8/2019,Republic Airline,HSV,DCA,-6,23,613
+2/12/2023,Spirit Air Lines,IAH,LAX,-3,-11,1379
+8/22/2020,Alaska Airlines Inc.,SEA,FAI,-9,1,1533
+6/11/2021,Delta Air Lines Inc.,ATL,BDL,69,60,859
+7/31/2020,American Airlines Inc.,RDU,DFW,-6,-1,1061
+8/5/2021,Southwest Airlines Co.,MDW,BNA,6,1,395
+11/20/2019,Delta Air Lines Inc.,BDL,ATL,-5,-32,859
+5/1/2022,Southwest Airlines Co.,BWI,BDL,3,6,283
+7/1/2020,Delta Air Lines Inc.,STT,ATL,-2,-9,1599
+12/25/2021,Southwest Airlines Co.,DAL,MSY,-7,-24,436
+3/24/2019,Spirit Air Lines,DEN,IAH,-4,-13,862
+3/17/2019,United Air Lines Inc.,SRQ,ORD,-4,35,1050
+5/5/2022,JetBlue Airways,JFK,CHS,-3,-26,636
+1/27/2019,Spirit Air Lines,FLL,ACY,13,11,977
+11/12/2022,Delta Air Lines Inc.,GRR,MSP,-10,-30,408
+9/6/2022,American Airlines Inc.,DFW,PNS,0,6,604
+5/25/2021,PSA Airlines Inc.,CLT,RDU,-8,-20,130
+4/23/2019,United Air Lines Inc.,ORD,IAD,-1,-5,588
+7/4/2021,Allegiant Air,LAS,GEG,14,25,806
+4/3/2019,ExpressJet Airlines LLC d/b/a aha!,TUL,IAH,-7,-17,429
+3/6/2022,JetBlue Airways,FLL,EWR,0,-8,1065
+1/3/2023,Allegiant Air,USA,SFB,-10,2,457
+1/31/2019,American Airlines Inc.,DFW,RNO,-5,-31,1345
+6/8/2021,American Airlines Inc.,ORD,ABQ,1,-11,1118
+6/21/2019,American Airlines Inc.,SLC,DFW,-2,-11,989
+12/28/2021,SkyWest Airlines Inc.,IAH,BOI,30,14,1482
+12/25/2019,Southwest Airlines Co.,BNA,MCI,-4,-14,491
+7/23/2023,United Air Lines Inc.,AUS,IAH,1,-2,140
+7/18/2019,Southwest Airlines Co.,IND,TPA,79,57,837
+11/2/2019,American Airlines Inc.,DFW,ORD,8,-9,801
+6/1/2021,SkyWest Airlines Inc.,DFW,BIL,-1,-6,1081
+5/28/2022,Republic Airline,MHT,EWR,-5,-31,209
+10/8/2022,American Airlines Inc.,DFW,TUS,-6,-13,813
+10/28/2020,Endeavor Air Inc.,RDU,DTW,-5,-11,501
+1/1/2019,Delta Air Lines Inc.,ATL,DAB,-4,-11,366
+12/28/2020,SkyWest Airlines Inc.,SFO,BOI,-2,6,522
+5/17/2022,Southwest Airlines Co.,BWI,MHT,-5,-8,377
+3/4/2020,United Air Lines Inc.,SFO,DEN,-1,-8,967
+12/20/2021,SkyWest Airlines Inc.,PRC,DEN,8,-10,557
+7/3/2023,JetBlue Airways,BOS,LGA,-10,-26,184
+1/6/2020,Delta Air Lines Inc.,LAX,ATL,5,-12,1947
+2/26/2021,United Air Lines Inc.,SMF,DEN,-4,-8,909
+4/8/2023,Southwest Airlines Co.,MDW,SAT,13,-10,1036
+6/12/2021,Delta Air Lines Inc.,DTW,ATL,2,-3,594
+4/16/2019,Envoy Air,GRR,ORD,-5,-10,137
+1/16/2023,SkyWest Airlines Inc.,DEN,SLC,5,2,391
+1/7/2019,Southwest Airlines Co.,SAT,DAL,11,0,248
+5/25/2019,Republic Airline,MSY,EWR,46,29,1167
+11/20/2021,Alaska Airlines Inc.,SEA,LAX,1,-24,954
+2/19/2021,Spirit Air Lines,CMH,MCO,-5,6,802
+8/7/2020,PSA Airlines Inc.,SRQ,CLT,-3,-2,547
+1/7/2020,Alaska Airlines Inc.,STL,SEA,-16,-8,1709
+2/27/2019,Southwest Airlines Co.,MDW,MHT,43,31,838
+11/27/2019,Frontier Airlines Inc.,SJU,TPA,-1,-13,1237
+2/11/2019,Southwest Airlines Co.,SFO,SAN,71,74,447
+2/26/2020,JetBlue Airways,BOS,RSW,-6,29,1249
+7/14/2022,Republic Airline,DCA,CHS,-3,-1,444
+8/4/2019,Mesa Airlines Inc.,PHX,ELP,-5,-7,347
+3/5/2019,American Airlines Inc.,ORD,SAN,-5,-7,1723
+4/6/2023,JetBlue Airways,TPA,LGA,-9,14,1010
+7/3/2020,Delta Air Lines Inc.,SLC,MSP,-3,1,991
+5/13/2019,Delta Air Lines Inc.,DCA,JFK,-5,-4,213
+4/4/2019,Republic Airline,CMH,PHL,-2,-8,406
+4/2/2021,Frontier Airlines Inc.,IND,DEN,-9,-27,977
+3/29/2019,United Air Lines Inc.,IAH,SAT,-5,-12,191
+9/12/2019,Endeavor Air Inc.,LGA,PWM,-10,-18,269
+6/26/2021,Alaska Airlines Inc.,SEA,ORD,22,17,1721
+5/30/2022,American Airlines Inc.,TUL,DFW,-5,-21,237
+11/11/2022,American Airlines Inc.,PHL,SAN,18,0,2370
+3/17/2020,Envoy Air,GRK,DFW,52,85,134
+7/31/2022,Envoy Air,DFW,SBP,10,1,1360
+2/25/2020,Republic Airline,ILM,LGA,-11,-15,500
+2/20/2019,American Airlines Inc.,LAX,KOA,7,-27,2504
+8/16/2020,Delta Air Lines Inc.,CMH,ATL,-4,-14,447
+2/25/2021,American Airlines Inc.,PHX,DEN,-5,-14,602
+10/25/2021,PSA Airlines Inc.,CLT,GSP,-10,-2,75
+2/1/2023,Southwest Airlines Co.,DEN,LAS,24,10,628
+3/21/2023,Endeavor Air Inc.,ATL,VLD,-5,-11,208
+4/8/2019,American Airlines Inc.,TPA,MIA,-8,-17,204
+3/27/2021,Envoy Air,JLN,DFW,-10,-23,327
+12/2/2021,Delta Air Lines Inc.,SLC,MCI,-3,-14,920
+1/13/2019,United Air Lines Inc.,ORD,MSP,1,-4,334
+3/15/2019,Southwest Airlines Co.,MKE,LAS,-1,-7,1524
+4/14/2022,SkyWest Airlines Inc.,MSP,MKE,-3,9,297
+10/25/2021,American Airlines Inc.,CLT,EWR,-11,-8,529
+6/22/2023,Southwest Airlines Co.,BNA,MCO,-4,-10,616
+12/1/2019,Delta Air Lines Inc.,MCO,LGA,23,20,950
+7/1/2019,Spirit Air Lines,BWI,LAS,-7,-26,2106
+3/14/2022,SkyWest Airlines Inc.,BIL,MSP,-2,0,748
+3/30/2019,Allegiant Air,BLI,PSP,-15,-33,1078
+2/7/2019,Delta Air Lines Inc.,CHS,ATL,-8,-21,259
+10/5/2019,American Airlines Inc.,RIC,CLT,-5,-31,257
+12/29/2021,Delta Air Lines Inc.,DFW,ATL,32,18,731
