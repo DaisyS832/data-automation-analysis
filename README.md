@@ -122,6 +122,7 @@ data-automation-analysis/
 │   │   └── raw_data.csv
 │   └── processed/
 │       ├── cleaned_data.csv
+│       ├── cleaned_data.xlsx
 │       ├── cleaned_data_sample.csv
 │       └── cleaned_data_sample.xlsx
 ├── notebooks/
